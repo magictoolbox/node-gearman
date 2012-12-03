@@ -1,0 +1,4 @@
+{ "name" : "gearman",
+  "main" : "./lib/gearman.js",
+  "version" : "1.0.0"
+  }
